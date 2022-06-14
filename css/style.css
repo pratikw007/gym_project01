@@ -3,7 +3,7 @@
 body{
     color: aliceblue;
     font-size: 15px;
-    /* background: url('img/gym.jpg'); */
+    /* background: url('img/gymi.jpg'); */
    /* padding: 25px; */
    font-family: 'Baloo bhai 2', cursive;
  height: 50vh;
@@ -28,6 +28,7 @@ body{
     /* margin: 25px 20px; */
     margin: 0px 26px;
     filter:invert(100%);
+    /* position: sticky; */
 }
 .left div{
     text-align: center;
@@ -132,5 +133,10 @@ font-size: 20px;
     height: 50rem;
     width: 100%;
     position: absolute;
+}
+.marque{
+    font-size: 15px;
+    color: red;
+    border: 100px;
 }
    
